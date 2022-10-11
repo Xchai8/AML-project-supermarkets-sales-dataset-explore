@@ -25,7 +25,9 @@ The dataset you will be working with has been pushed to this repository under th
 9. Problem 6 data ---- contain X_train, X_test, t_train, t_test dataset for problem 6
 10. Project_1_report.docx ---- report in docx form
 11. Project_1_report.pdf ---- report in pdf form
-12. README.md ---- this file.
+12. training.pdf ---- pdf form of training.ipynb
+13. test.pdf ---- pdf form of test.ipynb
+14. README.md ---- this file.
 
 ## How to use 
 
